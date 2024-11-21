@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Tetiana 👋
 
+:mailbox: Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina)
 <!--
 **TetianaChehrina/TetianaChehrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
