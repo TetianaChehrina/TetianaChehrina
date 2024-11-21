@@ -2,11 +2,11 @@
 
 :mailbox: Connect with me:
 
-[tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram]
+[tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina)
 
 <br/>
 <br/>
-![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaChehrina&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 <!--
 **TetianaChehrina/TetianaChehrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
