@@ -2,7 +2,12 @@
 
 :mailbox: Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina)
+[tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina) 
+
+
+<br/>
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaChehrina&theme=dark&show_icons=true)
 <!--
 **TetianaChehrina/TetianaChehrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
