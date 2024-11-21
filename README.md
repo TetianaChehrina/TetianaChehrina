@@ -5,7 +5,7 @@
 [tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina)
 
 ![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaChehrina&show_icons=true&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaChehrina&layout=compact)](https://github.com/TetianaChehrina/github-readme-stats)
 
 <!--
 **TetianaChehrina/TetianaChehrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
