@@ -4,7 +4,7 @@
 
 [tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaChehrina&show_icons=true&theme=holi)
 
 
 <!--
