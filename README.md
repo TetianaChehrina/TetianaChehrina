@@ -3,9 +3,9 @@ ________________________________________________________________________________
 
 ### Hi, I'm Tetiana 👋
 
-•	👨‍💻 I’m currently working on something cool.
-• 🌱 Сontinuously learning new technologies.
-  ⚡ Fun fact: I’m fond of rollerblading and reading books.
+#•	👨‍💻 I’m currently working on something cool.
+#• 🌱 Сontinuously learning new technologies.
+#  ⚡ Fun fact: I’m fond of rollerblading and reading books.
   
 :mailbox: Connect with me:
 
