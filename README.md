@@ -1,22 +1,19 @@
-## Hi, I'm Tetiana 👋
+### Hi, I'm Tetiana 👋
 
 :mailbox: Connect with me:
 
 [tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina)
 
-![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaChehrina&show_icons=true&theme=holi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaChehrina)](https://github.com/TetianaChehrina/github-readme-stats)
+![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaChehrina&show_icons=true&theme=holi) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaChehrina&size_weight=0.5&count_weight=0.5)
 
-<!--
-**TetianaChehrina/TetianaChehrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 I’m currently working on something cool.
+🌱 Сontinuously learning new technologies.
+👯 I’m looking to collaborate on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ⚡ Fun fact: I’m fond of rollerblading and reading books.
+
+My stack
+
+[<img src="https://skillicons.dev/icons?i=html,css,sass,git,js,react,redux,postman,nodejs,express,MongoDB,vite" />]
+
