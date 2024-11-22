@@ -1,11 +1,11 @@
 Full Stack Developer
 _________________________________________________________________________________________________________________________________________________________________________________________________
 
-### Hi, I'm Tetiana 👋
+### Hi, I'm Tetiana👋
 
-#•	👨‍💻 I’m currently working on something cool.
-#• 🌱 Сontinuously learning new technologies.
-#  ⚡ Fun fact: I’m fond of rollerblading and reading books.
+•	👨‍💻 I’m currently working on something cool.<br/>
+• 🌱 Сontinuously learning new technologies.<br/>
+  ⚡ Fun fact: I’m fond of rollerblading and reading books.<br/>
   
 :mailbox: Connect with me:
 
