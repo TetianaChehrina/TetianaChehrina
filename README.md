@@ -9,7 +9,7 @@ ________________________________________________________________________________
   
 :mailbox: Connect with me:
 
-[tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](mailto:@Tetiana_Chehrina)
+[tetiana.chehrina@gmail.com](mailto:tetiana.chehrina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tetiana-chehrina/) | [WhatsApp](https://wa.me/+48536029950) | [Telegram](https://t.me/@Tetiana_Chehrina)
 
 ![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaChehrina&show_icons=true&theme=holi) 
 
